@@ -1,0 +1,27 @@
+{
+  "name": "starwars-name",
+  "version": "1.0.0",
+  "description": "Get a random starwar name",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hosmaneshridhar/starwars-name.git"
+  },
+  "keywords": [
+    "starwar",
+    "name"
+  ],
+  "author": "Hosmane Shridhar <hosmaneshridhar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hosmaneshridhar/starwars-name/issues"
+  },
+  "homepage": "https://github.com/hosmaneshridhar/starwars-name#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
